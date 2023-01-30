@@ -10309,11 +10309,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ahmedtarek/Projects/Laboration2/Laboration2.csproj",
+      "projectUniqueName": "/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Laboration2.csproj",
       "projectName": "Laboration2",
-      "projectPath": "/Users/ahmedtarek/Projects/Laboration2/Laboration2.csproj",
+      "projectPath": "/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Laboration2.csproj",
       "packagesPath": "/Users/ahmedtarek/.nuget/packages/",
-      "outputPath": "/Users/ahmedtarek/Projects/Laboration2/obj/",
+      "outputPath": "/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ahmedtarek/.nuget/NuGet/NuGet.Config"
