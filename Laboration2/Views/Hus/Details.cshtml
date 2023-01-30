@@ -1,0 +1,30 @@
+@model Laboration2.Models.Hustyp
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Detaljer</h1>
+
+<div>
+    <h4>Hustyp</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Hustypen)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Hustypen)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Bildlänk)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Bildlänk)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Ändra</a> |
+    <a asp-action="Index">Föregående</a>
+</div>

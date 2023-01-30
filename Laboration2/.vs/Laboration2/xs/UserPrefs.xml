@@ -1,0 +1,69 @@
+﻿<Properties StartupConfiguration="{C9AA968F-2B73-4047-9D87-3213075AD09E}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="wwwroot/css/Husen.css">
+    <Files>
+      <File FileName="Models/Ägare.cs" Line="10" Column="9" />
+      <File FileName="Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="Models/HusContext.cs" Line="10" Column="1" />
+      <File FileName="Views/Shared/_Layout.cshtml" Line="39" Column="37" />
+      <File FileName="Program.cs" Line="9" Column="1" />
+      <File FileName="Views/Ägare/Index.cshtml" Line="7" Column="1" />
+      <File FileName="Views/Home/Index.cshtml" Line="12" Column="21" />
+      <File FileName="wwwroot/css/Startsida.css" Line="8" Column="1" />
+      <File FileName="Views/Ägare/Create.cshtml" Line="25" Column="50" />
+      <File FileName="Views/Ägare/Delete.cshtml" Line="30" Column="43" />
+      <File FileName="Views/Ägare/Details.cshtml" Line="28" Column="57" />
+      <File FileName="Views/Ägare/Edit.cshtml" Line="27" Column="50" />
+      <File FileName="Views/Hus/Index.cshtml" Line="6" Column="41" />
+      <File FileName="Views/Hus/Edit.cshtml" Line="27" Column="50" />
+      <File FileName="Views/Hus/Details.cshtml" Line="28" Column="57" />
+      <File FileName="Views/Hus/Delete.cshtml" Line="30" Column="43" />
+      <File FileName="Views/Hus/Create.cshtml" Line="26" Column="50" />
+      <File FileName="Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Models/Hustyp.cs" Line="1" Column="1" />
+      <File FileName="wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="Controllers/ÄgareController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/ReservationController.cs" Line="37" Column="53" />
+      <File FileName="Views/Reservation/Index.cshtml" Line="1" Column="1" />
+      <File FileName="Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="Controllers/HusController.cs" Line="1" Column="1" />
+      <File FileName="wwwroot/css/API.css" Line="1" Column="1" />
+      <File FileName="wwwroot/css/Agare.css" Line="4" Column="1" />
+      <File FileName="wwwroot/css/Husen.css" Line="7" Column="1" />
+      <File FileName="Models/Lan.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Laboration2" expanded="True">
+            <Node name="Laboration2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Ägare" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Hus" expanded="True" />
+                <Node name="Reservation" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Laboration2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

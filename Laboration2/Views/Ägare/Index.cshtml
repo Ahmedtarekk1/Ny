@@ -1,0 +1,49 @@
+@model IEnumerable<Laboration2.Models.Ägare>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<link rel="stylesheet" href="~/css/Agare.css">
+
+
+<h1>Ägare</h1>
+
+<p>
+    <a asp-action="Create">Skapa Nu</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Namn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hustyp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HustypId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Namn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hustyp.Hustypen)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hustyp.Id)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Ändra</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detaljer</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Radera</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,39 @@
+@model Laboration2.Models.Hustyp
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Ändra</h1>
+
+<h4>Hustyp</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group">
+                <label asp-for="Hustypen" class="control-label"></label>
+                <input asp-for="Hustypen" class="form-control" />
+                <span asp-validation-for="Hustypen" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bildlänk" class="control-label"></label>
+                <input asp-for="Bildlänk" class="form-control" />
+                <span asp-validation-for="Bildlänk" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Spara" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Föregående</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
