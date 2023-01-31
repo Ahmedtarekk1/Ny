@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Laboration2
+build_property.RootNamespace = Laboration2
+build_property.ProjectDir = /Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/ahmedtarek/Documents/GitHub/Ny/Laboration2
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Ägare/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQcyIZ2FyZS9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Ägare/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQcyIZ2FyZS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Ägare/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQcyIZ2FyZS9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Ägare/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQcyIZ2FyZS9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Ägare/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQcyIZ2FyZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Hus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSHVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Hus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSHVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Hus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSHVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Hus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSHVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Hus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSHVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Reservation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUmVzZXJ2YXRpb24vSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/ahmedtarek/Documents/GitHub/Ny/Laboration2/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bv8ih7ygk4
